@@ -163,3 +163,5 @@ cython_debug/
 archived/
 data/
 models/
+feat_imp/
+logs/
