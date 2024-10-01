@@ -165,3 +165,7 @@ data/
 models/
 feat_imp/
 logs/
+Training_Group/
+Training_Group_Augmented/
+Testing_Group/
+.DS_Store
