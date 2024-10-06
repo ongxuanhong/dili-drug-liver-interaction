@@ -13,3 +13,4 @@ captum==0.7.0
 torch_geometric==2.6.1
 xsmiles==0.2.2
 padelpy==0.1.14
+fastparquet==2024.2.0
