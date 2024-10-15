@@ -15,3 +15,4 @@ xsmiles==0.2.2
 padelpy==0.1.14
 fastparquet==2024.2.0
 optuna==4.0.0
+umap-learn==0.5.6
