@@ -21,3 +21,4 @@ optuna==4.0.0
 tpot==0.12.2
 h2o==3.46.0.5
 flaml==2.3.1
+transformers==4.46.2
