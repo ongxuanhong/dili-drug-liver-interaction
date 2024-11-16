@@ -168,3 +168,4 @@ logs/
 Training_Group*
 Testing_Group*
 .DS_Store
+.idea/
